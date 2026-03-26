@@ -1,7 +1,7 @@
 # ♟️ AlphaGo-Style 五子棋对弈平台 | AlphaGo-Style Gomoku Platform
 > **Engineered by:** xiaopeng_he
 > **Contact:** he_xp815@hotmail.com
-
+> QQ:2683809420
 
 ## 🔬 系统概述 | System Overview
 
